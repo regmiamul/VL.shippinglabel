@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vl-shipping-label/static/css/main.309400fc.css",
-    "main.js": "/vl-shipping-label/static/js/main.bbabe410.js",
-    "static/js/563.5ae4facf.chunk.js": "/vl-shipping-label/static/js/563.5ae4facf.chunk.js",
-    "index.html": "/vl-shipping-label/index.html",
-    "main.309400fc.css.map": "/vl-shipping-label/static/css/main.309400fc.css.map",
-    "main.bbabe410.js.map": "/vl-shipping-label/static/js/main.bbabe410.js.map",
-    "563.5ae4facf.chunk.js.map": "/vl-shipping-label/static/js/563.5ae4facf.chunk.js.map"
+    "main.css": "/vl.shipping-label/static/css/main.309400fc.css",
+    "main.js": "/vl.shipping-label/static/js/main.1c052dac.js",
+    "static/js/563.5ae4facf.chunk.js": "/vl.shipping-label/static/js/563.5ae4facf.chunk.js",
+    "index.html": "/vl.shipping-label/index.html",
+    "main.309400fc.css.map": "/vl.shipping-label/static/css/main.309400fc.css.map",
+    "main.1c052dac.js.map": "/vl.shipping-label/static/js/main.1c052dac.js.map",
+    "563.5ae4facf.chunk.js.map": "/vl.shipping-label/static/js/563.5ae4facf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.309400fc.css",
-    "static/js/main.bbabe410.js"
+    "static/js/main.1c052dac.js"
   ]
 }
