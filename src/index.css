@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  .shipping-label, .shipping-label * {
+    visibility: visible;
+  }
+  .shipping-label {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+}
