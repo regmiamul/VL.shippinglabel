@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vl-shipping-label/static/css/main.309400fc.css",
+    "main.js": "/vl-shipping-label/static/js/main.e8662cbc.js",
+    "static/js/453.4ea3dc18.chunk.js": "/vl-shipping-label/static/js/453.4ea3dc18.chunk.js",
+    "index.html": "/vl-shipping-label/index.html",
+    "main.309400fc.css.map": "/vl-shipping-label/static/css/main.309400fc.css.map",
+    "main.e8662cbc.js.map": "/vl-shipping-label/static/js/main.e8662cbc.js.map",
+    "453.4ea3dc18.chunk.js.map": "/vl-shipping-label/static/js/453.4ea3dc18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.309400fc.css",
+    "static/js/main.e8662cbc.js"
+  ]
+}
